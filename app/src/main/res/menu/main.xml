@@ -11,5 +11,10 @@
         android:id="@+id/menu_export"
         android:title="@string/menu_export"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/mode_dark"
+        android:title="@string/mode"
+        app:showAsAction="never">
+    </item>
 
 </menu>

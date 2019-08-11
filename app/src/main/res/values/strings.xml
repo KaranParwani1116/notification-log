@@ -64,4 +64,16 @@
     <string name="delete_dialog_yes">Delete</string>
     <string name="delete_dialog_no">Cancel</string>
 
+    <string name="mode_title">Choose App Theme</string>
+    <string name="Light_Theme">Light Theme</string>
+    <string name="Dark_Theme">Dark Theme</string>
+    <string name="key">Theme</string>
+
+    <string name="light_theme_value">light</string>
+    <string name="dark_theme_value">dark</string>
+
+    <string name="mode">Dark mode</string>
+    <string name="settingDay">Setting Day Mode</string>
+    <string name="settingNight">Setting Night Mode</string>
+
 </resources>

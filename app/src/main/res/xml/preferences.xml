@@ -41,5 +41,4 @@
         android:summary="0"
         android:enabled="false"
         app:iconSpaceReserved="false" />
-
 </androidx.preference.PreferenceScreen>

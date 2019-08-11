@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="@string/light_theme_value"
+        android:title="@string/mode_title"
+        android:key="@string/key"
+        android:entries="@array/theme_options"
+        android:entryValues="@array/theme_values">
+    </ListPreference>
+
+</androidx.preference.PreferenceScreen>
